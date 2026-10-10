@@ -1,0 +1,25 @@
+game_id,date,opponent,venue,home_away,status,opponent_win_rate,home_team,away_team
+1,2026-10-01,Lake Wolves,Aurora Ice Arena,home,completed,0.62,Aurora,Lake Wolves
+2,2026-10-04,Prairie Bears,Aurora Ice Arena,home,completed,0.313,Aurora,Prairie Bears
+3,2026-10-07,River Otters,Opponent Arena,away,completed,0.438,River Otters,Aurora
+4,2026-10-10,Mountain Lynx,Aurora Ice Arena,home,completed,0.412,Aurora,Mountain Lynx
+5,2026-10-13,Coastal Sharks,Aurora Ice Arena,home,completed,0.668,Aurora,Coastal Sharks
+6,2026-10-16,Forest Owls,Opponent Arena,away,completed,0.638,Forest Owls,Aurora
+7,2026-10-19,Lake Wolves,Aurora Ice Arena,home,scheduled,0.62,Aurora,Lake Wolves
+8,2026-10-22,Prairie Bears,Aurora Ice Arena,home,scheduled,0.313,Aurora,Prairie Bears
+9,2026-10-25,River Otters,Opponent Arena,away,scheduled,0.438,River Otters,Aurora
+10,2026-10-28,Mountain Lynx,Aurora Ice Arena,home,scheduled,0.412,Aurora,Mountain Lynx
+11,2026-10-31,Coastal Sharks,Aurora Ice Arena,home,scheduled,0.668,Aurora,Coastal Sharks
+12,2026-11-03,Forest Owls,Opponent Arena,away,scheduled,0.638,Forest Owls,Aurora
+13,2026-11-06,Lake Wolves,Aurora Ice Arena,home,scheduled,0.62,Aurora,Lake Wolves
+14,2026-11-09,Prairie Bears,Aurora Ice Arena,home,scheduled,0.313,Aurora,Prairie Bears
+15,2026-11-12,River Otters,Opponent Arena,away,scheduled,0.438,River Otters,Aurora
+16,2026-11-15,Mountain Lynx,Aurora Ice Arena,home,scheduled,0.412,Aurora,Mountain Lynx
+17,2026-11-18,Coastal Sharks,Aurora Ice Arena,home,scheduled,0.668,Aurora,Coastal Sharks
+18,2026-11-21,Forest Owls,Opponent Arena,away,scheduled,0.638,Forest Owls,Aurora
+19,2026-11-24,Lake Wolves,Aurora Ice Arena,home,scheduled,0.62,Aurora,Lake Wolves
+20,2026-11-27,Prairie Bears,Aurora Ice Arena,home,scheduled,0.313,Aurora,Prairie Bears
+21,2026-11-30,River Otters,Opponent Arena,away,scheduled,0.438,River Otters,Aurora
+22,2026-12-03,Mountain Lynx,Aurora Ice Arena,home,scheduled,0.412,Aurora,Mountain Lynx
+23,2026-12-06,Coastal Sharks,Aurora Ice Arena,home,scheduled,0.668,Aurora,Coastal Sharks
+24,2026-12-09,Forest Owls,Opponent Arena,away,scheduled,0.638,Forest Owls,Aurora
