@@ -1,0 +1,10 @@
+streamlit[auth]>=1.65,<2
+pydantic>=2.10,<3
+langgraph>=1,<2
+langchain-core>=1,<2
+langsmith>=0.4,<1
+neo4j>=5.28,<7
+requests>=2.32,<3
+python-dotenv>=1,<2
+Pillow>=11,<13
+pytest>=8,<10

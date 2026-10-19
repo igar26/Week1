@@ -1,0 +1,31 @@
+[server]
+address = "127.0.0.1"
+port = 8502
+enableCORS = true
+enableXsrfProtection = true
+enableStaticServing = false
+headless = true
+maxUploadSize = 12
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#d45235"
+backgroundColor = "#101b24"
+secondaryBackgroundColor = "#1c2b35"
+textColor = "#f7efe4"
+linkColor = "#ffbd91"
+borderColor = "#43505a"
+baseRadius = "large"
+buttonRadius = "full"
+font = "sans-serif"
+headingFont = "serif"
+
+[theme.sidebar]
+backgroundColor = "#152630"
+secondaryBackgroundColor = "#223945"
+
+[client]
+showErrorDetails = "none"

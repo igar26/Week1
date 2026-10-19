@@ -1,0 +1,41 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.000
+How this app is built. A code-generated walkthrough with a real synthetic decision run.
+Silent video: read the on-screen captions. No personal data.
+
+00:00:08.000 --> 00:00:16.000
+Less group chat. More actual plans.. Sign in with Google to start a real event, then enter a ZIP and activity ideas and share an invite. Everyone saves preferences before the group searches nearby venues.
+This synthetic run saved 4 responses and chose Coffee and catch-up (demo). Members need no API keys. The demo needs no account.
+
+00:00:16.000 --> 00:00:24.000
+Pick more than one good time. Members choose Can join, Maybe or Cannot join, pick activities, set a personal spending limit and share needs.
+After members opt in, the coordinator can ask the LLM to explain a shared fit. Python checks shared choices; the coordinator still finalizes. Phone access requires secure hosting.
+
+00:00:24.000 --> 00:00:32.000
+A plan friends can afford. Each person saves a maximum spend. Known venue estimates must fit the event budget and every definite attendee limit.
+Maybe stays tentative. Unknown cost needs checking; it is not a promise of affordability.
+
+00:00:32.000 --> 00:00:40.000
+Suggestions need agreement. Python checks activity consensus, venue votes and budgets. The optional LLM explains only supplied choices and facts.
+Every definite attendee must accept the venue. Only the coordinator confirms; AI never books or sends messages.
+
+00:00:40.000 --> 00:00:48.000
+Real discovery, checked by humans. Simple ZIP tiles use Geoapify Places with a host-managed key. Unknown hours, ratings and prices need checking.
+Neo4j and parallel advocates are legacy learning modules. This recording uses fictional places and no external API calls.
+
+00:00:48.000 --> 00:00:56.000
+From shared activity to a real plan. Venue tiles and ballots stay on the group page. 3 available or tentative demo members voted.
+Their agreed fictional venue is Bluebird Corner (fictional). Real venue ratings and costs stay unknown until sourced.
+
+00:00:56.000 --> 00:01:04.000
+A meetup you can actually follow. 2026-10-24 at 6 PM Central, for 2 hours.
+The group keeps its chosen venue and address together. Check hours and final costs before arranging a reservation. Fictional venues have no real route.
+
+00:01:04.000 --> 00:01:12.000
+Reservations, texts and memories. Reservation made in this demo: no. Current meetup scrapbook entries saved: 1.
+Upload photos in Our adventures: the group gallery refreshes automatically. Group settings supports leaving, coordinator transfer and optional deletion of your own memories.
+
+00:01:12.000 --> 00:01:20.000
+Built to stay reviewable. The current source has 20 application modules and 104 test functions (not a test-pass count).
+Help explains architecture and limitations. Run the watcher while coding; GitHub Actions rebuilds the artifact on pushes.
